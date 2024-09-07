@@ -9,5 +9,11 @@
   "themeConfig": [
     "exampleSite/hugo.toml"
   ],
-  "arrangement": {}
+  "arrangement": {
+    "exampleSite/content/english/_index.md": {
+      "md rasel hosain": {
+        "weight": 0
+      }
+    }
+  }
 }

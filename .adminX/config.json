@@ -4,7 +4,7 @@
     "public": "exampleSite/assets"
   },
   "content": {
-    "root": ".adminX"
+    "root": "exampleSite/data"
   },
   "themeConfig": [
     "exampleSite/hugo.toml"
